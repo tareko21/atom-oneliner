@@ -1,0 +1,16 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'One Liner'
+      'command': 'one-liner:run'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'One Liner'
+      'command': 'one-liner:run'
+    ]
+  }
+]
