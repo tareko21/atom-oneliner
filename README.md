@@ -1,5 +1,4 @@
 #Atom oneliner
---------------------
 
 Atom package that removes all line breaks and converts multilined text blocks into one line.  
 
