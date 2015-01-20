@@ -9,13 +9,13 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/rcaferati/atom-one-liner"
+      "url": "https://github.com/rcaferati/atom-oneliner"
   },
   "bugs": {
-      "url": "https://caferati.me/labs/atom-one-liner"
+      "url": "https://caferati.me/labs/atom-oneliner"
   },
   "author": "Rafael Caferati <rafael@caferati.me> (http://caferati.me)",
-  "homepage": "https://caferati.me/labs/atom-one-liner",
+  "homepage": "https://caferati.me/labs/atom-oneliner",
   "dependencies": {
   },
   "keywords": [
