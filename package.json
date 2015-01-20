@@ -1,30 +1,29 @@
 {
   "name": "one-liner",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Removes all line breaks and converts multilined text blocks into one line. Optionally removes all whitespaces as well.",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/rcaferati/atom-oneliner"
+    "type": "git",
+    "url": "https://github.com/rcaferati/atom-oneliner"
   },
   "bugs": {
-      "url": "https://caferati.me/labs/atom-oneliner"
+    "url": "https://caferati.me/labs/atom-oneliner"
   },
   "author": "Rafael Caferati <rafael@caferati.me> (http://caferati.me)",
   "homepage": "https://caferati.me/labs/atom-oneliner",
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
-      "format",
-      "formatting",
-      "html",
-      "tags",
-      "list",
-      "wrapper",
-      "speedtyping"
+    "format",
+    "formatting",
+    "html",
+    "tags",
+    "list",
+    "wrapper",
+    "speedtyping"
   ]
 }
